@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\")",
+      "Bash(mkdir -p \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\\\\draftly\\\\server\\\\config\" \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\\\\draftly\\\\server\\\\models\" \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\\\\draftly\\\\server\\\\routes\" \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\\\\draftly\\\\server\\\\middleware\" \"c:\\\\Projects\\\\capstone-project\\\\drafly-gmail-ai-agent\\\\draftly\\\\server\\\\utils\")",
+      "Bash(mkdir -p \"c:/Projects/capstone-project/drafly-gmail-ai-agent/draftly/server/services\")",
+      "Bash(git init *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Projects\\capstone-project\\drafly-gmail-ai-agent\\draftly\\server"
+    ]
+  }
+}
